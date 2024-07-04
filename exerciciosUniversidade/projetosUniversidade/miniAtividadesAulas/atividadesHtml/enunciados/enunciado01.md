@@ -1,0 +1,13 @@
+# Conversão de markdown para html
+
+Dado o código markdown (.md) abaixo, o converta para html.
+
+```markdown
+# Mirror Fashion
+## Bem-vindo à Mirror Fashion, sua loja de roupas e acessórios.
+
+- Confira nossas promoções
+- Receba informações sobre nossos lançamentos por email.
+- Navegue por todos nossos produtos em catálogo.
+- Compre sem sair de casa.
+```
